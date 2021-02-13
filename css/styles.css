@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-87509c {
+    background-color: #87509c;
+}
+
+header {
+    height: 600px;
+}
+
+#nav img {
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+#nav ul {
+    list-style: none;
+    float: right;
+    margin-top: 50px;
+}
+
+#nav ul li {
+    display: inline-block;
+    padding: 8px 15px;
+
+}
+
+#nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    line-height: 18px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+}
+
+.active {
+    background-color: #643a79;
+    border-radius: 5px;
+}
+
+#section1 h1 {
+    font: 700 42px 'Titillium Web';
+    line-height: 49px;
+    color: #f7f3ea;
+    text-align: center;
+    margin-top: 140px;
+}
+
+#section1 button {
+    background-color: #eb7d4b;
+    padding: 30px 80px;
+    border-radius: 5px;
+    border: 0;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Titillium Web";
+    border-bottom: 4px solid #c86a40;
+}
+
+
+#section2 {
+    background-color: #17c2a4;
+    height: 740px;
+}
+
+#section2 .container> h2 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    line-height: 30px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Titillium Web";
+    text-align: center;
+    padding-top: 100px;
+}
+
+#section2 hr {
+    width: 90px;
+    height: 4px;
+    background-color: #14a58c;
+    border: none;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#section2 .container> p {
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Titillium Web";
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    margin-top: 25px;
+}
+
+
+#services {
+    margin-top: 50px;
+}
+
+#services div {
+    width: 20%;
+    margin-left: 5%;
+    float: left;
+}
+
+.service {
+    text-align: center;
+}
+
+.service img {
+    height: 120px;
+    width: auto;
+}
+
+.service h2 {
+    font-size: 24px;
+    letter-spacing: 0px;
+    line-height: 18px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Titillium Web";
+    margin-top: 40px;
+}
+
+.service p {
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 300;
+    font-family: "Titillium Web";
+    text-align: center;
+    margin-top: 25px;
+}
+
+
+
